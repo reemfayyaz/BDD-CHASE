@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2122a5ec-9f19-4802-bb50-e12adbf0a5f3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2cNSlci7NZeQuoEmUFbJlor4pfT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/13475/IdeaProjects/BDD-CHASE/src/test/java/features",
+    "onboarding.tips.debug.path": "C:/Users/13475/IdeaProjects/BDD-CHASE/src/main/java/com/nysoftusa/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\13475\IdeaProjects\BDD-CHASE\src\test\java\features" />
+      <recent name="C:\Users\13475\IdeaProjects\BDD-CHASE\src\main\resources" />
+      <recent name="C:\Users\13475\IdeaProjects\BDD-CHASE\src\test\java\runner" />
+      <recent name="C:\Users\13475\IdeaProjects\BDD-CHASE\src\test\resources" />
+      <recent name="C:\Users\13475\IdeaProjects\BDD-CHASE\src\test\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nysoftusa.webelements" />
+      <recent name="nysoftusa.pages" />
+      <recent name="stepDefinitions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/13475/IdeaProjects/BDD-CHASE/src/test/resources/ChaseRegressionTestRunner.xml">
+    <configuration name="Scenario: Chase Logo functionality should work" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/ChaseHomePage.feature" />
+      <option name="GLUE" value="nysoftusa.configuration.common stepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="BDD-CHASE" />
+      <option name="NAME_FILTER" value="^Chase Logo functionality should work$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Chase Logo functionality should work$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Chase Logo functionality should work" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/13475/IdeaProjects/BDD-CHASE/src/test/resources/ChaseRegressionTestRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BDD-CHASE" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/ChaseRegressionTestRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegressionTestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BDD-CHASE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RegressionTestRunner" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/13475/IdeaProjects/BDD-CHASE/src/test/resources/ChaseRegressionTestRunner.xml" />
+        <item itemvalue="Cucumber Java.Scenario: Chase Logo functionality should work" />
+        <item itemvalue="TestNG.RegressionTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2122a5ec-9f19-4802-bb50-e12adbf0a5f3" name="Changes" comment="" />
+      <created>1707950697554</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707950697554</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/nysoftusa/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
